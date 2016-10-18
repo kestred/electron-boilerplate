@@ -37,9 +37,9 @@ Usage
 2. Remove the "Boilerplate" section of the README.
 3. Replace the "example" names in the following files:
 
-  - README.rst
-  - package.json
-  - app/package.json
+   - README.rst
+   - package.json
+   - app/package.json
 
 
 License
