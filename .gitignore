@@ -1,0 +1,7 @@
+node_modules/
+typings/
+dist/
+
+# Ignore everything in app except package.json
+app/*
+!app/package.json

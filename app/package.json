@@ -1,0 +1,10 @@
+{
+  "name": "ExampleApp",
+  "version": "0.0.0",
+  "description": "An example app",
+  "license": "UNLICENSED",
+  "author": "",
+  "main": "main.js",
+  "repository": {},
+  "dependencies": { "electron-squirrel-startup": "^1.0.0" }
+}
